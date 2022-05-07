@@ -52,20 +52,6 @@ public class Arreglo {
          System.out.println("Elemento mayor: " + mayor);
          System.out.println("Elemento menor: "+ menor);
      }
-    
-   /* public static void buscarMayor(int[][] args) {
-		int[] numeros ;
-		
-		int mayor = numeros[0];
-		
-		for (int x = 1; x < numeros.length; x++) {
-			if (numeros[x] > mayor) {
-				mayor = numeros[x];
-			}
-		}
-		System.out.println("El mayor es: " + mayor);
-	}    
-     */
      
       public static void cuentaCaracter(String letra,char carac){
         int num = 0;
